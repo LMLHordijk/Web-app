@@ -1,0 +1,21 @@
+# azureml-inference-server-http==0.8.3
+# azureml-mlflow==1.49.0
+black[jupyter]==23.1.0
+git-filter-repo==2.38.0
+ipykernel==6.22.0
+matplotlib==3.6.3
+openpyxl==3.1.2
+pandas==1.5.3
+plotly==5.13.1
+pre-commit==3.2.0
+psycopg2-binary==2.9.6
+pyarrow==11.0.0
+pytest==7.2.2
+python-dotenv==1.0.0
+requests==2.28.2
+ruff==0.0.259
+scikit-learn==1.2.2
+sqlalchemy<2
+streamlit==1.20.0
+ujson==5.7.0
+ydata-profiling==4.1.1
